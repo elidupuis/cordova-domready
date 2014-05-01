@@ -1,0 +1,19 @@
+{
+  "name": "cordova-domready",
+  "version": "0.0.1",
+  "description": "Fires deviceready when running in Cordova; domready otherwise",
+  "keywords": [
+    "domready",
+    "deviceready",
+    "cordova",
+    "phonegap"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "elidupuis/domready": "^1.0.5"
+  },
+  "license": "MIT",
+  "repository": "elidupuis/cordova-domready"
+}
